@@ -21,7 +21,7 @@ This is a messy csv file that was sourced from github containing job data like N
 
 #### The cleaned data is stored in respective files as above
 
-##For more data analysis $ data science contact
+## For more data analysis $ data science contact
 ```
 authkarimi1@gmail.com
 ```
