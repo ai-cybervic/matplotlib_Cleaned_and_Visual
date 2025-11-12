@@ -1,4 +1,4 @@
-# matplotlib_Cleaned_and_Visual
+# Matplotlib_Cleaned_and_Visual
 This is a messy csv file that was sourced from github containing job data like Name ,Age, Salary etc. I then took this data inspected and cleaned it and made visualizations using matplotlib.pyplot  which explains the relation between age and salary in this dataset.
 
 ## Dependencies
@@ -18,11 +18,12 @@ This is a messy csv file that was sourced from github containing job data like N
   ```
   pip install numpy pandas matplotlib word2number
   ```
-The cleaned data is stored in respective files as above
+
+##The cleaned data is stored in respective files as above
 
 For more data analysis $ data science contact
 ```
 authkarimi1@gmail.com
 ```
-#Thankyou For Viewing.
+# Thankyou For Viewing.
 
