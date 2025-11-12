@@ -19,7 +19,7 @@ This is a messy csv file that was sourced from github containing job data like N
   pip install numpy pandas matplotlib word2number
   ```
 
-##The cleaned data is stored in respective files as above
+## The cleaned data is stored in respective files as above
 
 For more data analysis $ data science contact
 ```
